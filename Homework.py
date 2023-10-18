@@ -30,7 +30,7 @@ class User:
 
 user1 = User("user123", "user123@mail.ru", "qwerty1234567")
 print(user1.display_info())
-# dfdfd
+# manual commit
 
 entered_password = "qwerty1234567"
 if user1.validate_password(entered_password):
